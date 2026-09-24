@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hand-written static sitemap — placeholder domain below must be replaced
+     with the real production URL once the site has a domain. Legal pages
+     (privacy/cookies/terms/disclaimer) are intentionally omitted: they're
+     marked noindex in BaseLayout. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.ja-securityhospitality.nl/</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/diensten</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/diensten/evenementbeveiliging</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/diensten/horecabeveiliging</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/diensten/objectbeveiliging</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/diensten/hospitality-staffing</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/sectoren</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/over-ons</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/cases</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/vacatures</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/contact</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/offerte-aanvragen</loc></url>
+  <url><loc>https://www.ja-securityhospitality.nl/faq</loc></url>
+</urlset>
